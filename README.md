@@ -16,9 +16,13 @@ This showcases various ML models which such as neural networks, regularized regr
 - **Descriptions**: Preparing and importing a large customer dataset to perform linear regression (sklearn) as a way to predict future purchase amounts, including visualisation. 
 - **Files**: 'linear_regression_with_customer_data.ipynb', 'linear_regression_with_customer_data.py'
 
-### 2. 3 Diemensional Gradient Descent From Scratch
+### 2. 3 Dimensional Gradient Descent From Scratch
 - **Descriptions**: Using Python, NumPy and Matplotlib.pyplot to perform gradient descent on a complex function with two input variables, including visualisation.
 - **Files**: 'gradient_descent_from_scratch.ipynb', 'gradient_descent_from_scratch.py'
+
+### 3. Californian House Price Prediction
+- **Descriptions**: Using Python, Sklearn, Seaborn Matplotlib to predict house prices based on highly correlated input variables, including visualisation and data transformation.
+- **Files**: 'house_price_prediction.ipynb', 'house_price_prediction.py'
 
 ## Usage/Installation
 
